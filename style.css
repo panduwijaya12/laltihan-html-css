@@ -1,0 +1,52 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.border-sample{
+    border: thin solid black;
+    background-color: rgb(6, 71, 128);
+}
+
+body{
+    font-family: 'Roboto Mono', monospace;
+    color: rgb(255, 255, 255);
+    background-color: rgb(255, 255, 255);
+}
+
+header{
+    color: rgb(214, 225, 234);
+    font-size: 24pt;
+    padding: 20px;
+}
+
+footer{
+    color: rgb(0, 54, 102);
+    font-size: 24pt;
+}
+
+.container{
+    padding: 20px;
+}
+
+h1{
+    margin-bottom: 20px;
+}
+
+.content{
+    margin-bottom: 30px;
+    text-align: justify;
+}
+
+p{
+    margin-bottom: 10px;
+}
+
+section{
+    margin: 0 auto;
+    margin-bottom: 20px;
+    padding: 15px;
+    font-size: 16px;
+    width: 200px;
+    display: inline-block;
+}
